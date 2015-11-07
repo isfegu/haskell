@@ -1,0 +1,1 @@
+rota1 xs = tail xs ++ [head xs]
